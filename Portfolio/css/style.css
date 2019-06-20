@@ -1,0 +1,30 @@
+.container {
+    width: 970px;
+    background-color: black;
+    padding: 20px;
+}
+#header h1, #header h2 {
+    display: inline-block;
+}
+#header h2 {
+    position: relative;
+    left: 300px;
+}
+.top img {
+    width: 400px;
+    border: 2px solid white;
+}
+.sub-content {
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+.about {
+    width: 500px;
+}
+.sub-content h2 {
+    /* display: block; */
+    background-image: linear-gradient(black, white 20%, black);
+    color: purple;
+    margin: 0;
+}

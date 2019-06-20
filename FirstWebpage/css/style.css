@@ -1,0 +1,25 @@
+body {
+    background-color: #61b0b1;
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+div {
+    display: inline-block;
+    vertical-align: top;
+    border: 20px solid black;
+    margin: 20px;
+    padding: 20px;
+    
+}
+#left {
+    width: 40%;
+    background-image: url("https://media.giphy.com/media/rLZgVlQEkL0Qw/giphy.gif");
+}
+#mission {
+    color: green;
+}
